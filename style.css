@@ -29,7 +29,7 @@ padding: 30px 15px;
     
 }
 
-.hider .ul{
+.hider ul{
 display: flex;
 flex: 1;
 justify-content: center;
